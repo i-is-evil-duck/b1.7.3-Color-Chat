@@ -1,0 +1,12 @@
+name: ColorChat
+version: 1.0
+main: com.j3ly.colorchat.ColorChatPlugin
+commands:
+  colorchat:
+    description: Manages chat color and group settings
+    usage: /<command> [subcommand]
+    aliases: [cc]
+permissions:
+  colorchat.admin:
+    description: Allows use of all colorchat commands
+    default: op

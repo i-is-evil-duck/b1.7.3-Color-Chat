@@ -1,0 +1,22 @@
+groups:
+  vip+:
+    name: VIP+
+    color: GOLD
+  mvp+++:
+    name: MVP+++
+    color: LIGHT_PURPLE
+
+group-members:
+  ducky: vip+
+  timmy: vip+
+  lenard: mvp+++
+
+player-colors:
+  mikey: GREEN
+
+chat-colors:
+  mikey: BLUE
+
+formatting:
+  bracket-color: RED
+  plus-color: GOLD
